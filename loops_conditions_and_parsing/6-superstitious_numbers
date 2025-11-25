@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Task 4
+# Task 6
 a=1
 while [ $a -le 20 ]
 do
